@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: SoHee's Blog
+email: dlthgml1230@naver.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://lee-so-hee.github.io/leesohee.github.io/" 
 
 twitter_username:
-github_username:
+github_username: lee-so-hee
 
 # Build settings
 markdown: kramdown
